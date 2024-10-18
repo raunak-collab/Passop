@@ -1,10 +1,4 @@
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
 Password Manager Website
 Overview
 The Password Manager Website is a secure, user-friendly platform that allows users to store and manage their passwords in a centralized location. With this web application, users no longer need to remember multiple passwords for various accounts. Instead, they can access all their credentials from a single, encrypted vault with just one master password.
